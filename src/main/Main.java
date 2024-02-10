@@ -1,3 +1,9 @@
+package src.main;
+
+import src.methods.ConsultaCep;
+import src.methods.GeradorArquivo;
+import src.models.Endereco;
+
 import java.io.IOException;
 import java.util.Scanner;
 
